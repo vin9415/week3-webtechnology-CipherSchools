@@ -1,0 +1,12 @@
+p{
+    font-weight: normal;
+    word-spacing: 8px;
+    letter-spacing: 4px;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    text-decoration: underline solid blue;
+}
+
+/* you can use google font and then embeded */

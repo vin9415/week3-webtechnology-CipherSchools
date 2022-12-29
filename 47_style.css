@@ -1,0 +1,26 @@
+/* line , visited , hover , active */
+
+a:link{
+    color: chocolate;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color:green
+}
+
+a:active{
+    color: black;
+}
+
+p:hover{
+    color: darkmagenta;
+}
+p:active{
+    background-color: aquamarine;
+}
+
+/* its better to learn in orderclass */

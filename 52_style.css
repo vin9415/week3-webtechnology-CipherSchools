@@ -1,0 +1,51 @@
+/* :not(p){
+    color: blue; }
+    /*now we think here execept paragraph ,all are blue , means heading is only blue ,,lekin aisa  nhi hai...all are becoming blue fonts,,,for that we do below code */
+
+/* body :not(p){
+    color: blueviolet;
+}
+
+body:not(h1){
+    color: rgb(2, 161, 108);
+} */
+
+/* body :not(.fancy){
+    color: blue;
+    background-color:coral ;
+} */
+
+div:empty{
+    background : #222;
+    border:2px solid rgb(0, 236, 32) ;
+    height: 100px;
+    width: 100px;
+}
+
+:root{
+    background-color: red;
+    color: aliceblue;
+}
+
+html{
+    background-color: rgb(82, 82, 82);
+    color: rgb(255, 50, 228);
+}
+
+/* now in between root & html , root have more specificity ,
+,so it overwrite html  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+.fav-musicians{
+    border: 10px solid green;
+}
+
+.mozart{
+    width: 45% ;
+    border: 4px solid red;
+    float: left ; 
+    background-color: aquamarine;
+}
+
+
+.beethoven{
+    width:55% ; 
+    float : right ;
+    background-color: lightblue;
+    
+}
+
+/* .box{
+    clear:both ;
+} */
+
+/*  if wee see clearly ,,then we came to know that child is out of parent ,,so for that we use  clearfix class*/
+
+.clearfix{
+    clear:both ;
+}
+
+

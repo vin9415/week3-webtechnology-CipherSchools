@@ -1,0 +1,15 @@
+h1{
+    background-color: aqua;
+    /* text-align: center;  */
+    width: 500px;
+    text-align: right ; 
+    padding-right: 10px;
+}
+
+a{
+    display: inline-block; 
+    background-color: lightcoral;
+    text-align: center;  /*ye center mm nhi ayga ,,because iski width limited hoti hh */
+    width: 500px;
+    /* now you can text align right and left  */
+}

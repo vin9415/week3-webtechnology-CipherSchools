@@ -1,0 +1,7 @@
+/* p:first-child{
+    color: red;
+} */
+
+p:first-of-type{
+    color: rgb(0, 69, 116);
+}

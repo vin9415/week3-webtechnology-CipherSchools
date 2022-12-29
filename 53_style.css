@@ -1,0 +1,19 @@
+/* kisi particular part ko style dene kk liye ,,for this we use pseudo elements */
+p::first-letter{
+    font-size: 32px;
+}
+
+p::first-line{
+    font-size: 30px
+    ;
+}
+
+p::selection{
+    background-color: black;
+    color: brown;
+}
+
+h1::selection{
+    background-color: rgb(207, 9, 233);
+    color: rgb(64, 202, 0);
+}

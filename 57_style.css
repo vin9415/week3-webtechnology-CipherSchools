@@ -1,0 +1,14 @@
+html{
+    font-size: 10px;
+}
+
+
+.box1{
+    font-size : 2rem;
+}
+.text-content{
+    font-size: 3rem; 
+    border: 1rem solid red;
+    margin: 0.5rem ;
+    padding :2.5rem ;
+}

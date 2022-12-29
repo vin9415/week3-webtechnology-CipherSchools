@@ -1,0 +1,18 @@
+* {
+    margin : 0 ;
+    padding : 0 ;
+    box-sizing: border-box;
+}
+
+/* """*""star means univeersal change ,now see there is no padding and no margins */
+
+
+/* h1{
+    margin: 10px;
+}
+p{
+    margin  : 8px;
+    padding: 5px;
+
+} */
+

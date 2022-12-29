@@ -1,0 +1,13 @@
+p:last-child{
+    background-color: rgb(86, 255, 255);
+}
+
+/* div:last-of-type{
+    color: rgb(255, 55, 188);
+}
+body:last-of-type{
+    color: rgb(255, 55, 188);
+} */
+p:last-of-type{
+    color: rgb(255, 55, 188);
+}
